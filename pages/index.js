@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm Kelium. I'm a software developer and a humble chess player. You can contact me on
+        <p>Hello, I'm Kelium Zeus Jojoa Urrutia. I'm a software developer and a humble chess player. You can contact me on
           {" "}
           <a href="https://lichess.org/" target="_blank">
             Lichess
